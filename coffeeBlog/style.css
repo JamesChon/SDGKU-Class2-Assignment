@@ -1,0 +1,34 @@
+/*global*/
+*{  
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: Arial;
+}
+p{
+    line-height: 2;
+}
+img{
+    max-width: 100%;
+}
+/*utilities*/
+
+/*header*/
+.site-init{
+    background-image: url(./img/banner.jpg);
+    background-size: cover;
+    height: 300px;
+    text-align: center;
+    color:white
+}
+/*main*/
+.moreInfo button{
+    padding: 10px;
+    background-color: #99582a;
+}    
+
+.readMore button{
+   padding: 10px 25px 10px 25px;
+   background-color: black;
+}
